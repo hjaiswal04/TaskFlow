@@ -8,10 +8,6 @@
 - **Priority Management:** Move tasks between priority lists.
 - **Visual Representation:** Each priority list is color-coded for quick identification.
 
-## Screenshots
-
-![Screenshot 1](https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-xB_NskCCSMSnG-n9fDvajBY9qQtBOd1zc76vkmv3l0_-XrX5oeQo51jerPfEbXlkIZLFhSclNXFI4Z4CSs4joj3fUZ=w1920-h883)
-
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
